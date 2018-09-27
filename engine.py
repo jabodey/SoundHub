@@ -76,10 +76,8 @@ if __name__ == '__main__':
         sh.create_file_from_html_list(html_list,filename,imagename)
         sh.open_html_file(filename)
 
-<<<<<<< HEAD
-=======
+
     filename = "result.html"
     imagename = "logo.png"
     sh.create_file_from_html_list(html_list,track_list,filename,imagename)
     sh.open_html_file(filename)
->>>>>>> 10659c64ea8ed4a13991782478e2f9c92a751dbd
